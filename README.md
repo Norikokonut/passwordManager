@@ -4,6 +4,11 @@ This project is an password manager in python. It encrypt your key and after cip
 This is firstely a personnal project but I've finely put it in gitlab if someone want to use it.
 All your data is stored in a local file.
 
+## Setup
+
+For the setup of the Manager, you just have to launch `setup.py`. After, just launch pw-manager and enter "TEST" on the shell.
+If you want to change the master key, you have to change `setup.py` and put your own key.
+
 ## PasswordEncrypter
 
 To encrypt the key, I put all the ascii code of the letters of the key in a matrix and I multiply it by itself. After, I translate the matrix in a new string and it's the first line of `password.txt`.
