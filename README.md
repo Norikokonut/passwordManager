@@ -1,7 +1,7 @@
 # PasswordManager
 
 This project is an password manager in python. It encrypt your key and after cipher your password with the unencrypt key.
-This is firstely a personnal project but I've finely put it in gitlab if someone want to use it.
+This is firstely a personnal project but I've finely put it in github if someone want to use it.
 All your data is stored in a local file.
 
 ## Setup
