@@ -8,6 +8,7 @@ All your data is stored in a local file.
 
 ## Setup 🖥️
 
+Firstely, install pyperclip if you haven't installed it yet by using the command `pip3 install pyperclip`
 For the setup of the Manager, you just have to launch `setup.py`. After, just launch pw-manager and enter "TEST" on the shell.
 If you want to change the master key, you have to change `setup.py` and put your own key.
 
